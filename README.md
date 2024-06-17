@@ -22,7 +22,7 @@ Each assignment folder contains detailed documentation, code files, and any addi
 
 ## COURSE INSTRUCTOR
 - **Professor:** Naveen Kuragayala
-- 
+
 - **University:** Northeastern University
 
 ## CONTRIBUTIONS
